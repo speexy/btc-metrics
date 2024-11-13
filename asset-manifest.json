@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/btc-metrics/static/css/main.e6c13ad2.css",
+    "main.js": "/btc-metrics/static/js/main.86de196a.js",
+    "static/js/453.eba5e057.chunk.js": "/btc-metrics/static/js/453.eba5e057.chunk.js",
+    "index.html": "/btc-metrics/index.html",
+    "main.e6c13ad2.css.map": "/btc-metrics/static/css/main.e6c13ad2.css.map",
+    "main.86de196a.js.map": "/btc-metrics/static/js/main.86de196a.js.map",
+    "453.eba5e057.chunk.js.map": "/btc-metrics/static/js/453.eba5e057.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.86de196a.js"
+  ]
+}
